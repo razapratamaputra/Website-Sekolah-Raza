@@ -2,19 +2,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: chocolate; /* Warna latar belakang */
+    background-color: chocolate;
 }
 
 header {
-    background: rgba(53, 66, 74, 0.8); /* Warna latar belakang dengan transparansi */
+    background: rgba(53, 66, 74, 0.8);
     color: #ffffff;
     padding: 10px 0;
     text-align: center;
 }
 
 .logo {
-    width: 250px; /* Atur lebar logo sesuai kebutuhan */
-    height: auto; /* Menjaga rasio aspek */
+    width: 250px;
+    height: auto;
 }
 
 nav ul {
@@ -39,14 +39,14 @@ main {
 section {
     padding: 20px;
     margin: 10px;
-    background: rgba(255, 255, 255, 0.9); /* Warna latar belakang putih dengan transparansi */
+    background: rgba(255, 255, 255, 0.9);
     border-radius: 5px;
 }
 
 footer {
     text-align: center;
     padding: 10px 0;
-    background: rgba(53, 66, 74, 0.8); /* Warna latar belakang dengan transparansi */
+    background: rgba(53, 66, 74, 0.8);
     color: #ffffff;
     position: relative;
     bottom: 0;
@@ -72,7 +72,7 @@ input[type="email"] {
 
 button {
     padding: 10px;
-    background-color: #35424a; /* Warna tombol */
+    background-color: #35424a;
     color: white;
     border: none;
     border-radius: 5px;
@@ -80,7 +80,7 @@ button {
 }
 
 button:hover {
-    background-color: #2c3e50; /* Warna tombol saat hover */
+    background-color: #2c3e50;
 }
 
 #home{
